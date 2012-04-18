@@ -96,6 +96,7 @@ Section "Installation des fichiers"
   File lib\iText-2.1.7.jar
   File lib\jackson-core-lgpl-1.7.4.jar
   File lib\jackson-mapper-lgpl-1.7.4.jar
+  File lib\jasperreports-4.5.0.jar
   File lib\jaxen-1.1.1.jar
   File lib\jcommon-1.0.15.jar
   File lib\jdt-compiler-3.1.1.jar
